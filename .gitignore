@@ -1,0 +1,9 @@
+GameData/ObnoxiousTechTree/Plugins/*
+GameData/0Harmony.dll
+
+RDNodeAnchorFixer/bin
+RDNodeAnchorFixer/build
+RDNodeAnchorFixer/obj
+
+.vs
+packages
